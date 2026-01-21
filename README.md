@@ -13,7 +13,7 @@ Per industry curated list of tools that will help you plan your team, projects a
 9. https://www.hellobonsai.com/
 
 
-## Iregular shift focused businesses (Hospitals, Restaurants, Hotels...)
+## Iregular shifts focused businesses (Hospitals, Restaurants, Hotels...)
 1. https://shiftscheduler.ai/
 2. https://www.deputy.com/
 3. https://connecteam.com/
