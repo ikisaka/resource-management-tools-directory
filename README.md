@@ -11,6 +11,7 @@ Per industry curated list of tools that will help you plan your team, projects a
 7. https://resourceguruapp.com/
 8. https://www.teamgantt.com/
 9. https://www.hellobonsai.com/
+10. https://www.bigtime.net/ / Complex platform for financial project management, which includes resource management features
 
 
 ## Iregular shifts focused businesses (Hospitals, Restaurants, Hotels...)
