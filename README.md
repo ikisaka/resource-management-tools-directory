@@ -28,5 +28,6 @@ Per industry curated list of tools that will help you plan your team, projects a
 2. https://www.procore.com/
 3. https://www.hcss.com/
 4. https://www.ganttic.com/
+5. https://www.procore.com/ - Hard to evaluate. They don't have freemium version or public demo, nor transparent pricing. You have to request demo call and pricing indicidually. This is not a fair approach nowdays. 
 
 
