@@ -2,7 +2,7 @@
 Per industry curated list of tools that will help you plan your team, projects and vacations.
 
 ## Tools for agencies (IT, Marketing, Legal...)
-1. https://www.resourceplanner.io/ - Simple and intuitive tool that will help you manage project's and vacations in your team with generous freemium
+1. https://www.resourceplanner.io/ - Simple and intuitive tool that will help you manage project's and vacations in your team with generous freemium. Best price / value ratio.
 2. https://www.float.com/
 3. https://www.runn.io/
 4. https://www.forecastapp.com/
@@ -11,8 +11,9 @@ Per industry curated list of tools that will help you plan your team, projects a
 7. https://resourceguruapp.com/
 8. https://www.teamgantt.com/
 9. https://www.hellobonsai.com/
-10. https://www.bigtime.net/ / Complex platform for financial project management, which includes resource management features
-11. https://linear.app/
+10. https://www.bigtime.net/ - Complex platform for financial project management, which includes resource management features
+11. https://linear.app/ - looks like they have close cooperation with openAI
+12. https://www.epicflow.com/ - I can't even believe, that anyone is using this tool. Their pricing is crazy, they charge 25€ per person/month.
 
 
 
