@@ -6,14 +6,15 @@ Per industry curated list of tools that will help you plan your team, projects a
 2. https://www.float.com/
 3. https://www.runn.io/
 4. https://www.forecastapp.com/
-5. https://meisterplan.com/
-6. https://www.tempo.io/
-7. https://resourceguruapp.com/
-8. https://www.teamgantt.com/
-9. https://www.hellobonsai.com/
-10. https://www.bigtime.net/ - Complex platform for financial project management, which includes resource management features
-11. https://linear.app/ - looks like they have close cooperation with openAI
-12. https://www.epicflow.com/ - I can't even believe, that anyone is using this tool. Their pricing is crazy, they charge 25€ per person/month.
+5. https://www.forecast.app/ - nope, this is not the same as above. It is completely different platform.
+6. https://meisterplan.com/
+7. https://www.tempo.io/
+8. https://resourceguruapp.com/
+9. https://www.teamgantt.com/
+10. https://www.hellobonsai.com/
+11. https://www.bigtime.net/ - Complex platform for financial project management, which includes resource management features
+12. https://linear.app/ - looks like they have close cooperation with openAI
+13. https://www.epicflow.com/ - I can't even believe, that anyone is using this tool. Their pricing is crazy, they charge 25€ per person/month.
 
 
 
