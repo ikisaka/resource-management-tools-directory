@@ -12,7 +12,7 @@ Per industry curated list of tools that will help you plan your team, projects a
 8. https://resourceguruapp.com/
 9. https://www.teamgantt.com/
 10. https://www.hellobonsai.com/
-11. https://www.bigtime.net/ - Complex platform for financial project management, which includes resource management features
+11. https://www.bigtime.net/ - Pretty complext platform, sometime I get lost with so many features, but I am pretty sure that it is a solid tool for managing projects. Even though, I would definitely remove some vanity features.
 12. https://linear.app/ - looks like they have close cooperation with openAI
 13. https://www.epicflow.com/ - I can't even believe, that anyone is using this tool. Their pricing is crazy, they charge 25€ per person/month.
 14. https://teamhood.com/ - Looks pretty solid. I will check out their free plan a little bit later and i will update this info.
