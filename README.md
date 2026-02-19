@@ -26,6 +26,7 @@ Per industry curated list of tools that will help you plan your team, projects a
 5. https://www.shiftboard.com/
 6. https://www.joinhomebase.com/
 7. https://www.microsoft.com/en-ca/microsoft-teams/staff-scheduling-shift-management
+8. https://www.plantime.io/
 
 ## Resource planning tools for construction sites
 1. https://www.outbuild.com/
