@@ -18,6 +18,7 @@ Per industry curated list of tools that will help you plan your team, projects a
 14. https://teamhood.com/ - Looks pretty solid. I will check out their free plan a little bit later and i will update this info.
 15. https://www.dartai.com/
 16. https://www.officetimeline.com/ - this is different from the tools above. Even though they have online tool, they are very "spreadsheet" oriented. Even size of canvas for planning is like A4 sheet and you can export it for printing.
+17. https://www.prochain.com/ - a market leader in project management tool for Fortune 500 companies. Hand in hand goes pricing starting at 49 dollars per month per standard user.
 
 
 ## Iregular shifts focused businesses (Hospitals, Restaurants, Hotels...)
@@ -29,6 +30,7 @@ Per industry curated list of tools that will help you plan your team, projects a
 6. https://www.joinhomebase.com/
 7. https://www.microsoft.com/en-ca/microsoft-teams/staff-scheduling-shift-management
 8. https://www.plantime.io/
+9. https://staffomatic.com/ - made in Germany
 
 ## Resource planning tools for construction sites
 1. https://www.outbuild.com/
